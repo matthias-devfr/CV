@@ -1,12 +1,12 @@
 # CV Gardahaut Matthias
 
-**Téléphone** : +33 7 00 00 00 00 
+**Téléphone** : +33 7 00 00 00 00  
 **Email** : matthias@gmail.com  
 **Ville** : 44 Nantes, France
 
 
 ## Présentation
-Étudiant en formation Technicien Supérieur Systèmes et Réseaux (TSSR), passionné par les technologies de l'information, la gestion de réseaux informatiques. À la recherche d'une opportunité de stage pour mettre en pratique mes compétences en administration systèmes et réseaux. N'hésitez pas à me contacter aux coordonnées indiquées.
+Étudiant en formation Technicien Supérieur Systèmes et Réseaux (TSSR), passionné par les technologies de l'information, la gestion de réseaux informatiques.  À la recherche d'une opportunité de stage pour mettre en pratique mes compétences en administration systèmes et réseaux.  N'hésitez pas à me contacter aux coordonnées indiquées.
 
 
 ## Formation
@@ -23,12 +23,12 @@ _WildCodeSchool à Nantes_
 **2023** - **Stage informatique**  
 _Entreprise LOM informatique à Treillières_  
 - Maintenance et configuration réseau.  
-- Assistance aux utilisateurs.
-- Montage PC.
-- Developpement en PHP.
+- Assistance aux utilisateurs.  
+- Montage PC.  
+- Developpement en PHP.  
 
 ## Hobbies
 
 - Passion pour la veille technologique et l'apprentissage des nouvelles technologies réseau.  
 - Arts : Piano, Musique, Dessin ...  
-- Jeux vidéo, Lecture, Cinéma, Jardinage, Sciences ...
+- Jeux vidéo, Lecture, Cinéma, Jardinage, Sciences ...  
