@@ -2,7 +2,7 @@
 
 **Téléphone** : +33 7 00 00 00 00  
 **Email** : matthias@gmail.com  
-**Ville** : 44 Nantes, France
+**Ville** : [44 Nantes](https://fr.wikipedia.org/wiki/France#G%C3%A9ologie,_topographie_et_hydrographie), France
 
 
 ## Présentation
