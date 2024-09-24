@@ -1,4 +1,4 @@
-![Photo du CV](https://www.elsys-design.com/fr/photo-cv-parfaite/)
+![Alt Photo du CV](https://www.elsys-design.com/fr/photo-cv-parfaite/)
 # CV Gardahaut Matthias
 
 **Téléphone** : +33 7 00 00 00 00  
