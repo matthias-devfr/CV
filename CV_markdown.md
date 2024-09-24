@@ -1,8 +1,8 @@
 # CV Gardahaut Matthias
 
-**Téléphone** : +33 7 66 32 50 04  
-**Email** : matthiasgdt@gmail.com  
-**Ville** : 44130 Blain, France
+**Téléphone** : +33 7 00 00 00 00 
+**Email** : matthias@gmail.com  
+**Ville** : 44 Nantes, France
 
 
 ## Présentation
