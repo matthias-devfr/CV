@@ -1,7 +1,6 @@
-# CV Gardahaut Matthias
+# CV Gardahaut Matthias  
 ![ma photo de profil](https://s2.qwant.com/thumbr/474x474/f/4/084a1ce97fa252feb5ff1fdd2ed120e01caaf12b903b4633cf33e8db04b31f/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.wMI5Zcea32nlh6Augun9iwHaHa%26pid%3DApi&q=0&b=1&p=0&a=0)
-
-
+# Etudiant Technicien Supérieur Systèmes et Réseaux
 **Téléphone** : +33 7 00 00 00 00  
 **Email** : matthias@gmail.com  
 **Ville** : [44 Nantes](https://fr.wikipedia.org/wiki/France#G%C3%A9ologie,_topographie_et_hydrographie), France
